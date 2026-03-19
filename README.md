@@ -17,3 +17,7 @@ Home lab simulating how real corporate networks segment departments using VLANs.
 ## Tools Used
 - Cisco Packet Tracer
 - Draw.io
+
+- #Lab Documentation
+- View Full Lab Documentation: ./VLAN_InterVLAN_Lab_Documentation.pdf
+  
